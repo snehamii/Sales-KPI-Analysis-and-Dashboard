@@ -50,14 +50,6 @@
 
 ***
 
-## 📈 Dashboard Preview
-
-![Tableau Dashboard](https://github.com/Shashwatgupta4u/Sales-KPI-Analysis-and-Dashboard/blob/main/Tableau%20Dashboard.png)
-
-You can view the published dashboard at: https://public.tableau.com/app/profile/shashwat.gupta6422/viz/SalesKPIDashboard_17621803537150/Dashboard1?publish=yes
-
-***
-
 ## ⚡ Usage
 
 1. **Clone this repository**
